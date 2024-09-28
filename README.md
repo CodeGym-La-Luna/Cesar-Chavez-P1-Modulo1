@@ -25,5 +25,5 @@ NOTA: El nombre del archivo debe de ser ingresado sin su extensión de tipo de a
 Una vez ingresado el nombre del archivo el programa ejecutara el algoritmo para cifrar o descrifrar según se haya elegido por el usuario.
 El tiempo de este proceso dependerá del tamaño del archivo y una vez finalizado el programa creará un nuevo archivo con la información cifrada o descifrada de acuerdo con selección realizada.
 
-El archivo creado se podrá visualizar en la carpeta raíz del proyecto:
+El archivo creado se podrá visualizar en la carpeta raíz del proyecto.
 
